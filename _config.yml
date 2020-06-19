@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Deconstructing Deep Learning
+email: msubhaditya@gmail.com
+description: Making a deep learning library from scratch and documenting it the whole way in Julia!
+url: https://subhadityamukherjee.github.io/DataLoader.jl/
