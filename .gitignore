@@ -1,4 +1,5 @@
-*.pth
-*.csv
-*checkpoint*
-*.v2
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
