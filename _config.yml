@@ -27,7 +27,7 @@ twitter_username: msubhaditya
 github_username:  SubhadityaMukherjee
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
