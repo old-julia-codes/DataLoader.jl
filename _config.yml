@@ -27,7 +27,7 @@ twitter_username: msubhaditya
 github_username:  SubhadityaMukherjee
 
 # Build settings
-theme: cayman
+theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
